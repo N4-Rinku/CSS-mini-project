@@ -1,2 +1,2 @@
-# CSS-mini-project
-photographer page.
+# CSS-mini-project 
+photographer page. 
